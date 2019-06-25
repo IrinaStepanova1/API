@@ -1,10 +1,5 @@
 # API
 # -*- coding: utf-8 -*-
-"""
-Created on Sun Jun 23 21:25:56 2019
-
-@author: днс
-"""
 from aiohttp import a
 from datetime import datetime
 import json 
